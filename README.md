@@ -1,6 +1,6 @@
-   # Hi Folks! 👋 I'M THEJESHWAAR
-   Student Developer | AI Enthusiast | Continuous Learner
+# Hi Folks! 👋 i'm Thejeshwaar Sathish kumar
 
+## Student Developer | AI Enthusiast | Continuous Learner
 
 ## Key Technical Skills 🛠️
 - 💻 Programming Languages: Python, JavaScript
@@ -46,5 +46,5 @@ Let's connect and explore the exciting world of technology together! 🌐🚀
 📫 How to reach me: [thejeshwaarsathishkumar@gmail.com](mailto:thejeshwaarsathishkumar@gmail.com)
 
 ## Connect with me:
-- [HackerRank](https://www.hackerrank.com/dashboard)
-- [LeetCode](https://leetcode.com/your-profile)
+- [HackerRank](https://www.hackerrank.com/profile/thejeshwaarsath1)
+- [LinkedIn](https://www.linkedin.com/in/thejeshwaar-sathish-kumar-672a52291)
