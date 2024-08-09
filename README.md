@@ -1,5 +1,5 @@
-                                                  # Hi Folks! 👋 I'M THEJESHWAAR
-                              ASPIRING : Student Developer | AI Enthusiast | Continuous Learner
+   # Hi Folks! 👋 I'M THEJESHWAAR
+  ASPIRING : Student Developer | AI Enthusiast | Continuous Learner
 
 
 ## Key Technical Skills 🛠️
