@@ -4,7 +4,7 @@
 
 ## Key Technical Skills 🛠️
 - 💻 Programming Languages: Python, JavaScript
-- 🌐 Web Technologies: HTML, CSS, React.js, Node.js
+- 🌐 Web Technologies: HTML, CSS, React.js, Node.js,EJS,Express.js,Unix cli,Bootstrap
 - 🧠 Problem Solving: HackerRank certified
 
 ## Projects 🚀
