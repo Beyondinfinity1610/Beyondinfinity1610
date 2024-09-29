@@ -50,7 +50,7 @@ Here are some of the projects I've been working on:
 ### Ethical AI Development
 ![30%](https://progress-bar.dev/30)
 
-You can manually update the progress percentages above as you make progress in each topic. If you want to make it more dynamic, you can integrate services like GitHub Actions to automate progress tracking based on your commits or project updates.
+You can manually update the progress percentages as you make progress in each topic. 
 
 ## Learning Focus 📚
 I'm constantly expanding my knowledge in AI, machine learning, and full-stack web development. My approach combines theoretical understanding with practical application, always seeking new challenges to enhance my skills in both front-end and back-end technologies. 🌱
