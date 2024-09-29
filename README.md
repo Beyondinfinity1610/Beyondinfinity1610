@@ -1,10 +1,10 @@
-# Hi Folks! 👋 i'm Thejeshwaar Sathish kumar
+# Hi Folks! 👋 I'm Thejeshwaar Sathish Kumar
 
 ## Student Developer | AI Enthusiast | Continuous Learner
 
 ## Key Technical Skills 🛠️
 - 💻 Programming Languages: Python, JavaScript
-- 🌐 Web Technologies: HTML, CSS, React.js, Node.js,EJS,Express.js,Unix cli,Bootstrap
+- 🌐 Web Technologies: HTML, CSS, React.js, Node.js, EJS, Express.js, Unix CLI, Bootstrap
 - 🧠 Problem Solving: HackerRank certified
 
 ## Projects 🚀
@@ -36,12 +36,24 @@ Here are some of the projects I've been working on:
 - 🤖 Process Automation
 - 🧠 Decision-Making
 
+## Currently Learning 📚
+
+### Full Stack Development with Node.js and React.js
+![90%](https://progress-bar.dev/90)
+
+### Generative AI with Python
+![70%](https://progress-bar.dev/70)
+
+### TensorFlow for Machine Learning
+![50%](https://progress-bar.dev/50)
+
+### Ethical AI Development
+![30%](https://progress-bar.dev/30)
+
+You can manually update the progress percentages above as you make progress in each topic. If you want to make it more dynamic, you can integrate services like GitHub Actions to automate progress tracking based on your commits or project updates.
+
 ## Learning Focus 📚
 I'm constantly expanding my knowledge in AI, machine learning, and full-stack web development. My approach combines theoretical understanding with practical application, always seeking new challenges to enhance my skills in both front-end and back-end technologies. 🌱
-
-I'm eager to connect with fellow tech enthusiasts and professionals. Whether it's discussing the latest in AI, collaborating on web development projects, or sharing insights on continuous learning in tech, I'm here to engage and grow. 🤝
-
-Let's connect and explore the exciting world of technology together! 🌐🚀
 
 📫 How to reach me: [thejeshwaarsathishkumar@gmail.com](mailto:thejeshwaarsathishkumar@gmail.com)
 
