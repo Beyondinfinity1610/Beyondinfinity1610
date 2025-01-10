@@ -13,6 +13,7 @@ Here are some of the projects I've been working on:
 - [Chat Window](https://chat-winddow.vercel.app/)
 - [Weather App](https://weather-app-seven-alpha-74.vercel.app/)
 - [Text to Speech](https://text-to-spech.vercel.app/)
+
 Other Learning projects on backend basic post,get and precripto self recreation using basic mongo DB refrence : https://youtu.be/C3U1RforbH4?si=ObbTcDeWRXURtDkL
 
 ## Certifications 🏆
