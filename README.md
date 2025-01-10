@@ -13,6 +13,7 @@ Here are some of the projects I've been working on:
 - [Chat Window](https://chat-winddow.vercel.app/)
 - [Weather App](https://weather-app-seven-alpha-74.vercel.app/)
 - [Text to Speech](https://text-to-spech.vercel.app/)
+Other Learning projects on backend basic post,get and precripto self recreation using basic mongo DB refrence : https://youtu.be/C3U1RforbH4?si=ObbTcDeWRXURtDkL
 
 ## Certifications 🏆
 - 🤖 Career Essentials in Generative AI (Microsoft and LinkedIn, Jan 2024)
@@ -36,21 +37,7 @@ Here are some of the projects I've been working on:
 - 🤖 Process Automation
 - 🧠 Decision-Making
 
-## Currently Learning 📚
 
-### Full Stack Development with Node.js and React.js
-![90%](https://progress-bar.dev/90)
-
-### Generative AI with Python
-![70%](https://progress-bar.dev/70)
-
-### TensorFlow for Machine Learning
-![50%](https://progress-bar.dev/50)
-
-### Ethical AI Development
-![30%](https://progress-bar.dev/30)
-
-You can manually update the progress percentages as you make progress in each topic. 
 
 ## Learning Focus 📚
 I'm constantly expanding my knowledge in AI, machine learning, and full-stack web development. My approach combines theoretical understanding with practical application, always seeking new challenges to enhance my skills in both front-end and back-end technologies. 🌱
