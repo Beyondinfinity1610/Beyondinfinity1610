@@ -8,7 +8,7 @@
 - 🧠 Problem Solving: HackerRank certified
 
 ## Projects 🚀
-Here are some of the projects I've been working on:
+Here are some of the projects I've been working on:(not updated check my repos)
 - [Drum Kit](https://drum-kit-coral-eight.vercel.app/)
 - [Chat Window](https://chat-winddow.vercel.app/)
 - [Weather App](https://weather-app-seven-alpha-74.vercel.app/)
