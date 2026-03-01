@@ -1,50 +1,44 @@
-# Hi Folks! 👋 I'm Thejeshwaar Sathish Kumar
+# Hi Folks! 👋 I'm Thejeshwaar Sathishkumar
 
-## Student Developer | AI Enthusiast | Continuous Learner
+## Deep Learning Engineer | Signal Intelligence | Time-Series Research
 
-## Key Technical Skills 🛠️
-- 💻 Programming Languages: Python, JavaScript
-- 🌐 Web Technologies: HTML, CSS, React.js, Node.js, EJS, Express.js, Unix CLI, Bootstrap
-- 🧠 Problem Solving: HackerRank certified
+I am an engineer focused on the intersection of **Signal Intelligence** and **Neural Architectures**. My work centers on building interpretable and generalizable AI for complex, non-stationary time-series data. 
 
-## Projects 🚀
-Here are some of the projects I've been working on:(not updated check my repos)
-- [Drum Kit](https://drum-kit-coral-eight.vercel.app/)
-- [Chat Window](https://chat-winddow.vercel.app/)
-- [Weather App](https://weather-app-seven-alpha-74.vercel.app/)
-- [Text to Speech](https://text-to-spech.vercel.app/)
+### 🔬 Core Research Focus
+- **Cross-Subject Generalization:** Developing methodologies to bridge the "Generalization Gap" in neural signal classification.
+- **Model Interpretability:** Utilizing **Phase Lag Index (PLI)** and Attention Mapping to create transparent "Glass-Box" architectures.
+- **Feature Engineering:** Implementing advanced extraction techniques like **Quantum-inspired Hilbert Transforms** and **Spectral Decomposition (VMD/EMD)**.
 
-Other Learning projects on backend basic post,get and precripto self recreation using basic mongo DB refrence : https://youtu.be/C3U1RforbH4?si=ObbTcDeWRXURtDkL
+---
 
-## Certifications 🏆
-- 🤖 Career Essentials in Generative AI (Microsoft and LinkedIn, Jan 2024)
-- 🧠 Introduction to Artificial Intelligence (LinkedIn, Jan 2024)
-- 🎨 Generative AI (LinkedIn, Nov 2023)
-- 🔍 Generative AI: The Evolution of Thoughtful Online Search (LinkedIn, Nov 2023)
-- 📊 Microsoft 365 Copilot First Look (LinkedIn, Nov 2023)
-- 🧩 Problem Solving (HackerRank, Nov 2023)
-- 💬 Streamlining Your Work with Microsoft Bing Chat (LinkedIn, Nov 2023)
-- 🤔 Decision-Making Strategies (LinkedIn, Sep 2023)
-- 📈 Python in Excel (LinkedIn, Sep 2023)
-- 🐍 Python (Basic) (HackerRank, Sep 2023)
-- ⚙️ Using Python for Automation (LinkedIn, Sep 2023)
+## 🚀 Key Projects
 
-## Areas of Expertise 🌟
-- 🕸️ Web Development (React.js, Node.js)
-- 🎭 Generative AI
-- 💼 Artificial Intelligence for Business
-- 🤝 Computer Ethics
-- 🔎 Search Engine Technology
-- 🤖 Process Automation
-- 🧠 Decision-Making
+### 🧠 Neuro-Diagnostic Generalization (ADHD Classification)
+**Domain:** Signal Intelligence & Biomedical AI
+- Developing a fusion framework combining **Multitaper Spectral Analysis** with **Graph Attention Networks (GAT)**.
+- **Key Upgrade:** Transitioned connectivity mapping from PLV to **Phase Lag Index (PLI)** to mitigate volume conduction effects and ensure robust cross-subject feature extraction.
+- [View Repository](https://github.com/beyondinfinity1610/adhd-classfication-eeg)
 
+### ⚛️ Quantum-Hilbert EEG Feature Learning
+**Domain:** Advanced Feature Engineering
+- Implemented a Quantum-inspired feature extractor utilizing Hilbert transforms to capture instantaneous phase and amplitude dynamics in noisy environments.
+- [View Repository](https://github.com/beyondinfinity1610/quantum-hilbert-eeg-feature-learning)
 
+### 🦾 Motor Imagery Classification
+**Domain:** Brain-Computer Interface (BCI)
+- Specialized in **Event-Related Desynchronization (ERD)** feature extraction for intent classification.
+- [View Repository](https://github.com/beyondinfinity1610/eeg-motor-imagery-classification-using-erd-features-beginner-neuro-ai-project-)
 
-## Learning Focus 📚
-I'm constantly expanding my knowledge in AI, machine learning, and full-stack web development. My approach combines theoretical understanding with practical application, always seeking new challenges to enhance my skills in both front-end and back-end technologies. 🌱
+---
 
-📫 How to reach me: [thejeshwaarsathishkumar@gmail.com](mailto:thejeshwaarsathishkumar@gmail.com)
+## 🛠️ Technical Stack
+- **Languages:** Python (Advanced), MATLAB
+- **Deep Learning:** PyTorch, TensorFlow, GNNs (PyG), Transformers
+- **Signal Processing:** MNE-Python, SciPy, NumPy, Applied DSP (Spectral Analysis, PLI, VMD)
+- **Engineering:** Interpretability (Attention Maps), Cross-subject validation pipelines
 
-## Connect with me:
-- [HackerRank](https://www.hackerrank.com/profile/thejeshwaarsath1)
-- [LinkedIn](https://www.linkedin.com/in/thejeshwaar-sathish-kumar-672a52291)
+---
+
+## 📫 Connect with me:
+- **LinkedIn:** [Thejeshwaar Sathishkumar](https://www.linkedin.com/in/thejeshwaar-sathish-kumar-672a52291)
+- **Email:** thejeshwaarsathishkumar@gmail.com
